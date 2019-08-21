@@ -1,0 +1,22 @@
+	*{
+			margin: 0;
+			padding: 0;
+			font-family: 'Josefin Sans', sans-serif;
+		}
+
+		#register form{
+			padding-top: 50px;
+		}
+		#register label{
+			color: #6A1B9A;
+			font-weight: bold;
+		}
+		#register h1{
+			font-size: 50px;
+			text-align: center;
+			padding-top: 50px;
+			color: #6A1B9A;
+			font-weight: bold;
+			text-shadow:3px 3px 3px#CE93D8;
+
+		}
